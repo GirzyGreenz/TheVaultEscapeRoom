@@ -1,0 +1,15 @@
+1 - Now I'm in the vault, I should pick up some loot.
+2 - This is to much to carry. Maybe I should only take the gold bars on the tables.
+3 - This door is sealed tight. I seams no one heard the explosion. But how do I get out?
+4 - I can't go yet with so little money and gold. Maybe I should grab some more...
+5 - Ah yes, freedom!
+6 - I should place the bomb first.
+7 - I should close the door first, before setting the explosive off.
+8 - I already used that.
+10 - Good, I locked myself in. Time to take a look what kind of explosive my supplier gave me and pull of a bankheist!
+11 - Yes, it workt! Now I can use the transporter.
+12 - Maybe I can find something to activate this pallet transporter.
+13 - Jezus, the storrage shelf broke the wall.
+14 - Maybe I can find something to activate the keycard slot next to this button.
+15 - This could be usefull.
+16 - Let's activate the bomb.

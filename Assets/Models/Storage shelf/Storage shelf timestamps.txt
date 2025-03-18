@@ -1,0 +1,2 @@
+Idle: frame 0 - 24
+Fall over: frame 24 - 74

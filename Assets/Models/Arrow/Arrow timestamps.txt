@@ -1,0 +1,2 @@
+Idle: frame 0 - 24
+Up- down: frame 24 - 57

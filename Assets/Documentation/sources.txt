@@ -1,0 +1,76 @@
+Textures:
+Night Skybox By Rochi on https://www.cleanpng.com/png-spacecape-deviantart-digital-art-symbol-night-sky-
+1023556/download-png.html
+Simple Door By Surfacequest on https://www.surfacequest.com/are-your-hotel-doors-eligible-for-a-revdoors-
+transformation-2/
+Storage Shelf By Shelving4shops on https://www.shelving4shops.co.uk/storageshelving.html
+Gold Bar By Alex & Alan on https://illustrationagent.com/style/3d-textures-gold-bar-advertising-illustration/
+C4 By 3DExport on https://nl.3dexport.com/3dmodel-c4-explosive-device-327280.htm
+Pallet Transporter By Jungheidrich on https://www.jungheinrich.nl/heftruck/elektrische-palletwagen/
+eje-114-116-118-120-424464
+Vault Metal By Vectonauta on https://www.freepik.com/free-photo/scratched-aluminum-texture-background_
+14688924.htm#query=metal%20texture&position=9&from_view=keyword&track=ais
+Money Stack By newrulefx.com on https://www.newrulefx.com/products/money-prop-new-style-100-crisp-new-
+50-000-blank-filler-5-stack-package
+Brick Wall By auris on https://stock.adobe.com/nl/search/images?k=seamless+brick+texture&asset_id=58819731
+Wall Patern Cloth By MD. TANBIRUL ISLAM on https://www.vecteezy.com/vector-art/14714305-luxury-damask-
+seamless-pattern-ornament-royal-victorian-texture-for-fabric-wall-decoration-table-cloth
+Vault Floor By Kushi Gestures on https://kushitextures.com/marble-foil-silver-seamless-texture-set.html
+Asphalt Ally Pavement Pattern By bedneyimages on https://www.freepik.com/free-photo/black-road-texture_
+946256.htm#query=asphalt%20texture%20seamless&position=1&from_view=keyword&track=ais
+Wooden Floor Seamless By Textures4Photoshop on https://www.textures4photoshop.com/tex/tiles-and-floor/
+seamless-wood-floor-parquet-texture.aspx
+Plinth Weathered White Wood By MyFreeTextures on https://www.myfreetextures.com/
+white-wood-texture-x-2-one-clean-one-peeling-and-rough/
+Ceiling Hallway Texture By The Home Depot on https://nl.pinterest.com/pin/
+AU1Dx7KnVdKAdLusE6H3AhdJNFYXPvtSUIBTEjOIZYDAwLF_JfdAePIaZEyJOBOptBBiNtMFMeQsejYyWfcWcIY/
+
+
+Sounds:
+Simple door Locked Sound By Distorded Room on https://www.youtube.com/watch?v=X93M5yW1agw&ab_
+channel=DistortedRoom
+Simple door Opening Sound By GamingSoundEffects on https://www.youtube.com/watch?v=Nfg1LS5b5x8&ab_
+channel=GamingSoundEffects
+C4 explosion By Johnnyfarmer on https://freesound.org/people/Johnnyfarmer/sounds/209772/
+Ambiant hallway By geodylabs on https://freesound.org/people/geodylabs/sounds/122824/
+Pick up keycard By bennychico11 on https://freesound.org/people/bennychico11/sounds/44417/
+Push button By MATRIXXX_ on https://freesound.org/people/MATRIXXX_/sounds/345990/
+Place briefcase By EminYILDIRIM on https://freesound.org/people/EminYILDIRIM/sounds/536074/
+Take gold Bar By MilanKovanda on https://freesound.org/people/MilanKovanda/sounds/377049/
+Take money By XTYL33 on https://freesound.org/people/XTYL33/sounds/68220/
+Insert Keycard By MrAuralization on https://freesound.org/people/MrAuralization/sounds/259293/
+Pick up & Place C4 By Nox_Sound on https://freesound.org/people/Nox_Sound/sounds/570484/
+Breaking wall By issalcake on https://freesound.org/people/issalcake/sounds/115922/
+Transporter Driving By TiesWijnen on nhttps://freesound.org/people/TiesWijnen/sounds/413311/
+Shelf hitting wall sound By eben-frostey on https://freesound.org/people/eben-frostey/sounds/435681/
+Transporter hitting shelf By Nox_Sound on https://freesound.org/people/Nox_Sound/sounds/569555/
+
+Home made models:
+Default door
+Money stack
+Gold bar
+Storrage shelf
+Hole in floor
+Hole in wall
+Pallet transporter
+Keycard
+
+Models from others:
+Pallet By groemk on https://free3d.com/3d-model/eur-pallet-7000.html 
+Vault door By Zhukovskyi on https://www.turbosquid.com/3d-models/vault-door-bank-3d-3ds/1118041
+Cabinet By Thiago Kozikowski on https://www.turbosquid.com/AssetManager/Index.cfm?stgAction=getFiles&
+subAction=Download&intID=1856236&intType=3&csrf=D6DD5373E3FFAB1AB56D9FE285F49D2559A514B5&showDownload=1&s=1
+Case By TampaJoey on https://sketchfab.com/3d-models/briefcase-empty-low-poly-game-ready-a655a45905a4463d8a390def53a9a25e
+Wall lamp By rjnievera on https://www.cgtrader.com/free-3d-models/architectural/lighting/wall-lamp-with-ies
+Street lantern By randallized on https://www.cgtrader.com/free-3d-models/exterior/street-exterior/street-lamp-gameready
+Plastic bucket By R3g3nerator on https://www.cgtrader.com/free-3d-models/industrial/tool/plastic-bucket-ab3e9e8e-b01e-
+4ac6-9a44-8c086bcc2f4c
+Trash Container By lucasbenicio on https://www.cgtrader.com/free-3d-models/exterior/street-exterior/
+dumpster-pbr-e593aea2-b340-4fdf-936e-7c6f92ba1e2b
+Trashbags By Earthless188 on https://www.cgtrader.com/free-3d-models/exterior/street-exterior/trash-bag-4a59dbfc-95e7-
+49b0-bbaa-e2d4591a75f7
+Hallway dresser By plfaria on https://www.cgtrader.com/free-3d-models/furniture/table/classical-wooden-side-table
+Cardboard boxes By minitakesstudio on https://www.cgtrader.com/free-3d-models/interior/interior-office/
+card-boards-low-poly-3d-model
+Caution sign By ziyaburak on https://www.cgtrader.com/free-3d-models/architectural/floor/
+plastic-caution-wet-sign-placed-on-wet-floors-indoors

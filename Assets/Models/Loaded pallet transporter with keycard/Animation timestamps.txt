@@ -1,0 +1,4 @@
+Idle: frame 0 - 24
+Insert keykart: frame 25 - 50
+Press button: frame 51 - 76
+Drive Forward: frame 76 - 203
